@@ -1,10 +1,10 @@
-# Sql Formatter
+# Sql Formatter for vscode
 
 Format SQL files using the [sql-formatter](https://www.npmjs.com/package/sql-formatter) npm package.
 
 ## Acknowledge
 
-This was FORKED from <https://github.com/kufii/vscode-sql-formatter>.
+This was FORKED from <https://github.com/kufii/vscode-sql-formatter> and renamed to `sql-formatter-vscode`.
 
 ## Configuration
 

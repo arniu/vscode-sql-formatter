@@ -1,5 +1,5 @@
 {
-  "name": "vscode-sql-formatter",
+  "name": "sql-formatter-vscode",
   "displayName": "SQL Formatter",
   "description": "Format sql files using the sql-formatter npm package",
   "version": "1.5.0",
