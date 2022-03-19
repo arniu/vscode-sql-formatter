@@ -2,6 +2,10 @@
 
 Format SQL files using the [sql-formatter](https://www.npmjs.com/package/sql-formatter) npm package.
 
+## Acknowledge
+
+This was FORKED from <https://github.com/kufii/vscode-sql-formatter>.
+
 ## Configuration
 
 **`sql-formatter.dialect`**: Choose which dialect to format with:

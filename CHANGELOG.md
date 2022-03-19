@@ -2,6 +2,20 @@
 
 All notable changes to the "SQL Formatter" extension will be documented in this file.
 
+## [1.5.0]
+
+- Switch to `sql-formatter` and as a result, we support more dialects:
+  - **sql**
+  - **mariadb**
+  - **mysql**
+  - **postgresql**
+  - **db2**
+  - **plsql**
+  - **n1ql**
+  - **redshift**
+  - **spark**
+  - **tsql**
+
 ## [1.4.0]
 
 - Added `sql-formatter.linesBetweenQueries` option to configure how many line breaks you want between queries
