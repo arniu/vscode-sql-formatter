@@ -1,8 +1,8 @@
 {
   "name": "sql-formatter-vscode",
   "displayName": "SQL Formatter",
-  "description": "Format sql files using the sql-formatter npm package",
-  "version": "1.5.0",
+  "description": "Format SQL files using the sql-formatter package",
+  "version": "1.5.1",
   "publisher": "arniu",
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
   ],
   "keywords": [
     "formatter",
-    "prettier",
+    "format",
     "sql",
     "db2",
     "mariadb",
@@ -58,7 +58,7 @@
           "scope": "resource",
           "type": "boolean",
           "default": false,
-          "description": "Convert keywords to uppercase or not"
+          "description": "Convert keywords to uppercase or not?"
         },
         "sql-formatter.linesBetweenQueries": {
           "scope": "resource",
