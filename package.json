@@ -2,7 +2,8 @@
   "name": "sql-formatter-vscode",
   "displayName": "SQL Formatter",
   "description": "Format SQL files using the sql-formatter package",
-  "version": "1.5.1",
+  "version": "1.5.2",
+  "license": "MIT",
   "publisher": "arniu",
   "repository": {
     "type": "git",
@@ -11,6 +12,7 @@
   "engines": {
     "vscode": "^1.38.0"
   },
+  "icon": "assets/logo.png",
   "categories": [
     "Formatters"
   ],

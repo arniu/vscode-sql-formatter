@@ -2,6 +2,11 @@
 
 All notable changes to the "SQL Formatter" extension will be documented in this file.
 
+## [1.5.2]
+
+- Add logo
+- Add LICENSE
+
 ## [1.5.0]
 
 - Switch to `sql-formatter` and as a result, we support more dialects:
